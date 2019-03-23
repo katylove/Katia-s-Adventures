@@ -39,12 +39,12 @@
 
 @keyframes slide{
     0%{
-       background-image: url(../medias/383.jpg);
+       background-image: url(383.jpg);
     }
     20%{
-        background-image: url(../medias/384.jpg); 
+        background-image: url(384.jpg); 
     }
     100%{
-        background-image: url(../medias/382.jpg); 
+        background-image: url(382.jpg); 
     }
 }﻿
